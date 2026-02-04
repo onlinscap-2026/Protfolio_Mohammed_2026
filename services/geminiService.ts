@@ -20,7 +20,7 @@ const getSystemInstruction = (data: PortfolioData) => {
     ${PROJECTS.map(p => `- ${p.title}: ${p.description}`).join('\n')}
     
     Experience:
-    ${EXPERIENCE.map(e => `- ${e.role} at ${e.company} (${e.period})`).join('\n')}
+    ${EXPERIENCE.map(e => `- ${e.role} at ${e.company} at ${e.location} (${e.period})`).join('\n')}
     
     Keep your answers professional, concise, and helpful. If asked something outside this context, politely steer the conversation back to Alex's work.
   `;

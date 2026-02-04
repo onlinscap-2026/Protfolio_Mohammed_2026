@@ -55,7 +55,7 @@ export const DEFAULT_DATA: PortfolioData = {
       company: 'TechFlow Systems',
       role: 'Senior Frontend Architect',
       period: 'Jan 2021 - Present',
-      location: 'New York, NY',
+      location: 'Sanaa, Al-Andalus University, Dar es Salaam',
       type: 'Full-time',
       description: [
         'Architected a modular micro-frontend ecosystem using Module Federation, reducing build times by 60%.',
@@ -68,7 +68,7 @@ export const DEFAULT_DATA: PortfolioData = {
       company: 'Innovate Digital',
       role: 'Full Stack Engineer',
       period: 'Jun 2018 - Dec 2020',
-      location: 'San Francisco, CA',
+      location: 'Sanaa/Khawlan/Al-Gharas,',
       type: 'Full-time',
       description: [
         'Developed real-time collaboration features using WebSockets and CRDTs for a design tool.',
