@@ -58,7 +58,7 @@ const ResumeView: React.FC<ResumeViewProps> = ({ data, onClose, isDark }) => {
                       <h3 className="font-black text-lg uppercase">{exp.role}</h3>
                       <span className="text-sm font-bold text-slate-400 font-mono">{exp.period}</span>
                     </div>
-                    <p className="text-sm font-bold text-blue-600 mb-4">{exp.company} • {exp.location}</p>
+                    <p className="text-sm font-bold text-blue-600 mb-4">{exp.company}</p>
                     <ul className="space-y-2">
                       {exp.description.map((item, i) => (
                         <li key={i} className="text-sm text-slate-600 leading-relaxed flex gap-3">
