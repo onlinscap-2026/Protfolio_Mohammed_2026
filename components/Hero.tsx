@@ -98,7 +98,7 @@ const Hero: React.FC<HeroProps> = ({ data, isAdmin, onEdit, onResumeOpen }) => {
           }`}>
              <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
              <img 
-               src="https://697fee16c4feaabd2d12db0d.imgix.net/me-.jpg" 
+               src="https://697fedf9c4feaabd2d12dadd.imgix.net/WhatsApp%20Image%20222026-02-05%20at%2012.53.33%20AM-artguru.png?w=781&h=940&ar=781%3A940" 
                alt="Profile" 
                className={`rounded-xl w-full object-cover aspect-[4/5] transition-all duration-700 ${isDark ? 'grayscale hover:grayscale-0' : 'hover:scale-[1.02]'}`}
              />
