@@ -3,7 +3,7 @@ import { PortfolioData } from './types';
 
 export const DEFAULT_DATA: PortfolioData = {
   bio: {
-    name: 'Mohammed Rashid',
+    name: 'Mohammed Rashed',
     title: 'Senior Frontend Architect',
     about: 'Crafting high-performance, accessible, and beautiful web experiences.',
     whoIAm: 'A developer passionate about clean code and user-centric design.',
@@ -97,10 +97,10 @@ export const DEFAULT_DATA: PortfolioData = {
   ],
   messages: [],
   settings: {
-    seoTitle: 'Mohammed Rashid | Senior Frontend Architect',
+    seoTitle: 'Mohammed Rashed | Senior Frontend Architect',
     seoDescription: 'Professional Portfolio of Mohammed Rashid, specializing in high-performance web applications and AI interfaces.',
     footerText: 'Crafted with precision using modern web standards.',
-    copyrightText: 'Mohammed Rashid 2026',
+    copyrightText: 'Mohammed Rashed 2026',
     designCreditText: 'Premium Developer Portfolio',
     showInteractiveElements: true,
     theme: 'dark',
