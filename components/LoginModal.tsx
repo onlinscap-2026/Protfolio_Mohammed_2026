@@ -89,7 +89,7 @@ const LoginModal: React.FC<LoginModalProps> = ({ isOpen, onClose, onLogin }) => 
 
             <div className="bg-slate-800/50 p-3 rounded-xl border border-slate-700">
                <p className="text-center text-[10px] text-slate-500">
-                Hint: <b>user</b> / <b>password</b>
+                Hint: <b>user123</b> / <b>234</b>
               </p>
             </div>
           </form>
