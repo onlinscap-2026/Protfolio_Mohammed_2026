@@ -1,0 +1,8 @@
+{
+  "name": "Elevate Portfolio Pro",
+  "description": "A high-end, AI-powered developer portfolio featuring interactive sections, skills visualization, and a Gemini-driven personal assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
