@@ -104,8 +104,8 @@ export const DEFAULT_DATA: PortfolioData = {
     designCreditText: 'Premium Developer Portfolio',
     showInteractiveElements: true,
     theme: 'dark',
-    adminUsername: 'user',
-    adminPassword: 'password'
+    adminUsername: '...',
+    adminPassword: '...'
   }
 };
 
