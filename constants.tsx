@@ -80,19 +80,19 @@ export const DEFAULT_DATA: PortfolioData = {
   education: [
     {
       id: 'edu1',
-      institution: 'Stanford University',
+      institution: 'University of Andalusia',
       degree: 'Master of Science',
-      field: 'Computer Science (AI Specialization)',
-      period: '2016 - 2018',
-      location: 'Stanford, CA'
+      field: 'Computer Information Technology',
+      period: '2018 - 2022',
+      location: 'sanaa, darsaalm'
     },
     {
       id: 'edu2',
-      institution: 'University of California, Berkeley',
-      degree: 'Bachelor of Science',
-      field: 'Electrical Engineering & Computer Science',
-      period: '2012 - 2016',
-      location: 'Berkeley, CA'
+      institution: 'Khalid Bin Al-Walid School',
+      degree: 'Distinction',
+      field: 'General Secondary Education',
+      period: '2015 - 2016',
+      location: 'Khawlan L-Ghars'
     }
   ],
   messages: [],
