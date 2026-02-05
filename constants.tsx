@@ -36,7 +36,7 @@ export const DEFAULT_DATA: PortfolioData = {
       description: 'Real-time financial analytics engine with advanced WebGL visualizations.',
       tags: ['React', 'Three.js', 'Redux', 'D3.js'],
       image: 'https://697fedf9c4feaabd2d12dadd.imgix.net/%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%202026-02-05%20144028.png?w=381&h=552&ar=381%3A552',
-      link: '#',
+      link: 'https://drive.google.com/file/d/1SE6If3GExgdvV9yUYhL_eIJvoM910pOF/view?usp=sharing',
       github: '#',
       isFeatured: true,
       isVisible: true
