@@ -68,7 +68,7 @@ export const DEFAULT_DATA: PortfolioData = {
       company: 'Innovate Digital',
       role: 'Full Stack Engineer',
       period: 'Jun 2018 - Dec 2020',
-      location: 'Sanaa/Khawlan/Al-Gharas,',
+      location: 'Sanaa Yemen Soft',
       type: 'Full-time',
       description: [
         'Developed real-time collaboration features using WebSockets and CRDTs for a design tool.',
@@ -81,7 +81,7 @@ export const DEFAULT_DATA: PortfolioData = {
     {
       id: 'edu1',
       institution: 'University of Andalusia',
-      degree: 'Master of Science',
+      degree: 'Bachelors Degree with Distinction',
       field: 'Computer Information Technology',
       period: '2018 - 2022',
       location: 'sanaa, darsaalm'
